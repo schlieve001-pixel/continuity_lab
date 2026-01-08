@@ -1,0 +1,101 @@
+[
+  {
+    "timestamp": "2026-01-05T11:53:05.962019",
+    "tag": "alpha0.05_beta0.1_gamma0.5_D0.8",
+    "alpha": 0.05,
+    "beta": 0.1,
+    "gamma": 0.5,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  },
+  {
+    "timestamp": "2026-01-05T11:53:11.302426",
+    "tag": "alpha0.05_beta0.1_gamma0.7_D0.8",
+    "alpha": 0.05,
+    "beta": 0.1,
+    "gamma": 0.7,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  },
+  {
+    "timestamp": "2026-01-05T11:53:16.578666",
+    "tag": "alpha0.05_beta0.1_gamma0.9_D0.8",
+    "alpha": 0.05,
+    "beta": 0.1,
+    "gamma": 0.9,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  },
+  {
+    "timestamp": "2026-01-05T11:53:21.799136",
+    "tag": "alpha0.08_beta0.1_gamma0.5_D0.8",
+    "alpha": 0.08,
+    "beta": 0.1,
+    "gamma": 0.5,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  },
+  {
+    "timestamp": "2026-01-05T11:53:27.038441",
+    "tag": "alpha0.08_beta0.1_gamma0.7_D0.8",
+    "alpha": 0.08,
+    "beta": 0.1,
+    "gamma": 0.7,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  },
+  {
+    "timestamp": "2026-01-05T11:53:32.207855",
+    "tag": "alpha0.08_beta0.1_gamma0.9_D0.8",
+    "alpha": 0.08,
+    "beta": 0.1,
+    "gamma": 0.9,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  },
+  {
+    "timestamp": "2026-01-05T11:53:37.394614",
+    "tag": "alpha0.1_beta0.1_gamma0.5_D0.8",
+    "alpha": 0.1,
+    "beta": 0.1,
+    "gamma": 0.5,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  },
+  {
+    "timestamp": "2026-01-05T11:53:42.674317",
+    "tag": "alpha0.1_beta0.1_gamma0.7_D0.8",
+    "alpha": 0.1,
+    "beta": 0.1,
+    "gamma": 0.7,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  },
+  {
+    "timestamp": "2026-01-05T11:53:48.224409",
+    "tag": "alpha0.1_beta0.1_gamma0.9_D0.8",
+    "alpha": 0.1,
+    "beta": 0.1,
+    "gamma": 0.9,
+    "D": 0.8,
+    "returncode": 0,
+    "stdout": "\ud83e\udde9 Starting SRCL-MQ simulation: grid=150, steps=600\n\ud83d\udd01 Step 0/600\n\ud83d\udd01 Step 100/600\n\ud83d\udd01 Step 200/600\n\ud83d\udd01 Step 300/600\n\ud83d\udd01 Step 400/600\n\ud83d\udd01 Step 500/600\n\u2705 SRCL-MQ complete!  Check ~/origin/continuity_lab/results_srclmq for images.\n",
+    "stderr": ""
+  }
+]
